@@ -1,0 +1,90 @@
+/*
+$base:      #34495e
+$firm:      #1abc9c
+
+$gray:      #95a5a6
+$lightgray: #ecf0f1
+$inverse:   #fff
+
+$success:   #2ecc71
+$danger:    #e74c3c
+$warning:   #f1c40f
+$info:      #3498db
+*/
+html,body{
+    background: #1abc9c;
+}
+
+a {
+    text-decoration:none;
+}
+
+a.read-more{
+    display:block;
+}
+
+h1 a{
+    color: white;
+}
+
+h1{
+    color: white;
+    margin-left: -40px;   
+    display:inline-block;
+    background: #1abc9c;
+    padding: 10px 20px 10px 0;
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+.row{
+    margin-top: 40px;
+    background: #ecf0f1; 
+}
+
+.post{
+}
+
+.post .content{
+    padding: 40px;
+    margin-top: 40px;
+    font-size: 18px;
+    line-height: 30px;
+}
+.post .content h1{
+    margin-left: -60px;
+}
+
+.post .info {
+    text-transform: uppercase; 
+    color: #95a5a6;
+    margin-top:20px;
+}
+
+.post-summary{
+    padding: 40px;
+}
+
+.post-summary .info{
+    color: #95a5a6;
+    text-transform:uppercase;
+    display:block;
+    margin-bottom: 40px;
+}
+
+.post-summary div.text{
+    font-size: 26px;
+    line-height: 50px;
+    color: #95a5a6;
+}
+
+.post-summary-image{
+    width: 200px;
+    height: 200px;
+    background: #1abc9c;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float:right;
+    margin-left: 20px;
+}

@@ -27,6 +27,10 @@ h1 a{
     color: white;
 }
 
+p {
+    margin: 20px auto;
+}
+
 h1{
     color: white;
     margin-left: -40px;   
@@ -46,13 +50,16 @@ h1{
 }
 
 .post .content{
-    padding: 40px;
     margin-top: 40px;
     font-size: 18px;
     line-height: 30px;
 }
 .post .content h1{
-    margin-left: -60px;
+    margin-left: -180px;
+}
+.post .content img{
+    padding: 10px;
+    background: #fff;
 }
 
 .post .info {

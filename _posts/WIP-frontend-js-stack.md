@@ -6,11 +6,23 @@ image:
 ingress: 
 ---
 
-bower
-requirejs
-gruntjs
-sass
-jquery
-bootstrap
-underscore
-backbone
+
+# A hipster’s guide to front end development
+
+(introduction)
+
+## Bower
+
+## RequireJS
+
+## Grunt
+
+## SASS
+
+## jQuery
+
+## Twitter Bootstrap
+
+## Underscore
+
+## Backbone

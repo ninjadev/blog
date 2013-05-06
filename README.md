@@ -4,6 +4,10 @@
 
     apt-get install jekyll
 
+    or
+
+    gem install jekyll
+
 
 ## Writing a post
 
@@ -15,6 +19,10 @@
 
 ## Test locally:
 
+### Jekyll 1.0:
+    jekyll serve
+
+### Older versions:
     jekyll --auto --server
 
 ## Deploy master branch to server:

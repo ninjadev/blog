@@ -8,7 +8,10 @@ ingress: We released our second proper demo last week at Solskogen 2013. Here is
 
 # TUNL-MNTN-WTER: a peek behind the scenes
 
-Some intro text about the scene, and solskogen.
+Ninjadev started dabbling in the demoscene last year when three of us visited our first demo party last summer.
+For those not in the know, the demoscene is a computer art subculture where the main focus, apart from partying, is on creating demos - computer programs that generate audiovisual art in real time.
+Solskogen 2012, the of the biggest demoparty in Norway, welcomed us with open arms, and we released a web demo called [HONEYCOMB](http://pouet.net/prod.php?which=59501).
+This year twice as many of us went, intent on making a demo that was at least longer than last year's demo, which clocked in at about 1 minute and 30 seconds - about as much time as it takes to *insert silly yet ordinary thing which takes about 90 seconds*.
 
 ## Why begin now when you can begin later?
 
@@ -16,7 +19,7 @@ Time management is a fickle mistress, and although we knew [for the longest time
 As it turns out, people have lives, and finding time for demo making is not always the easiest task.
 Work on TUNL-MNTN-WTER started a small week before Solskogen, with most of the work put during the first evening/night of the party.
 Of course, doing to much demo coding at a party means missing out on a good deal of partying, so lesson learned.
-Funnily, this is the exact same lesson that we learned last year with our first demo [HONEYCOMB](http://pouet.net/prod.php?which=59501) at last year's Solskogen, but next year will be different!
+Funnily, this is the exact same lesson that we learned at last year's Solskogen, but next year will be different!
 
 ## Choosing a language/framework
 
@@ -27,8 +30,8 @@ Even getting simple C++/opengl snippets to run reliably on the different platfor
 
 ## The music
 
-A long time ago, an idea for a demo featuring trains started floating around in our group.
-Because the music was composed the weekend before a single line of code for the demo was written, the composers had an enormous amount of thematic control for the demo.
+The music was composed before a single line of code for the demo was written.
+Because of this, the composers had an enormous amount of thematic control for the demo.
 Inspired by Pat Metheny's "Last train home", the soundtrack for the demo was chugged out over the course of two days, in which the composers spent most of their time making appearances at Martini parties.
 
 ## Some facts about the train, with cool graphs

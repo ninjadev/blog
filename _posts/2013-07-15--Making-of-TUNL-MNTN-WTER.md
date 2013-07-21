@@ -10,7 +10,7 @@ ingress: We released our second proper demo last week at Solskogen 2013. Here is
 
 Ninjadev started dabbling in the demoscene last year when three of us visited our first demo party last summer.
 For those not in the know, the demoscene is a computer art subculture where the main focus, apart from partying, is on creating demos - computer programs that generate audiovisual art in real time.
-Solskogen 2012, the of the biggest demoparty in Norway, welcomed us with open arms, and we released a web demo called [HONEYCOMB](http://pouet.net/prod.php?which=59501).
+Solskogen 2012, the biggest demoparty in Norway, welcomed us with open arms, and we released a web demo called [HONEYCOMB](http://pouet.net/prod.php?which=59501).
 This year twice as many of us went, intent on making a demo that was at least longer than last year's demo, which clocked in at about 1 minute and 30 seconds - about as much time as it takes to *insert silly yet ordinary thing which takes about 90 seconds*.
 
 ## Why begin now when you can begin later?

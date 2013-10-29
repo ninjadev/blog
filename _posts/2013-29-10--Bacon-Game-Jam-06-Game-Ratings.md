@@ -77,4 +77,33 @@ You quickly get used to it though, and the game goes back to feeling like a regu
 The graphics are oddly reminiscent of the covers of the O'Reilly series of programming books.
 
 
-## []
+## [Colour Goes Here](http://bacongamejam.org/jams/bacongamejam-06/117/)
+
+*\*fires up game\**
+
+Ohh, it has a splash screen.
+Fancy.
+The menu has a cool retro look, and the music is the right mixture of moody and funky.
+I'm exited to play this game already.
+
+Ok I pressed "play", now what?
+There is a guy with a gun, and something that looks like a wall.
+Perhaps I should read the documentation.
+Ah, it's not done.
+That's a shame, it looked promising.
+
+[Color Goes Here](http://bacongamejam.org/jams/bacongamejam-06/117/) is suppsedly an interactive story, and its writting using the excellent LÖVE2D framework for Lua.
+
+
+## [Along The Ridge](http://bacongamejam.org/jams/bacongamejam-06/122/)
+
+[Along The Ridge](http://bacongamejam.org/jams/bacongamejam-06/122/) Looks like a killer game, based on the screenshot.
+Upon running the game, however, your eyes will be ripped out by the incredibly rinbowy bright text-blinky intro screen which explains the game.
+If you are able to make it past the hideous instruction screen, you will get to play what I think is an awesome game.
+
+This parahraph is a stand-in because I've tried to explain the core game mechanic and why I like it a couple of times, but can't really get the words straight.
+Therefore, I'm copping out and just saying that I like the concept of this game.
+
+The theme *does* feel a little tacked on, though.
+
+

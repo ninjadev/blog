@@ -2,11 +2,13 @@
 layout: post
 title:  TUNL-MNTN-WTER&#58; a peek behind the scenes
 author: sigveseb (& ...)
-image: http://example.com/screenshot-of-the-demo.jpg
+image: http://i.imgur.com/70vGaRq.jpg
 ingress: We released our second proper demo last week at Solskogen 2013. Here is what we learned.
 ---
 
 # TUNL-MNTN-WTER: a peek behind the scenes
+
+![](http://i.imgur.com/70vGaRq.jpg)
 
 Ninjadev started dabbling in the demoscene last year when three of us visited our first demo party last summer.
 For those not in the know, the demoscene is a computer art subculture where the main focus, apart from partying, is on creating demos - computer programs that generate audiovisual art in real time.
@@ -17,6 +19,7 @@ This year twice as many of us went, intent on making a demo that was at least lo
 
 Time management is a fickle mistress, and although we knew [for the longest time](http://www.youtube.com/watch?v=a_XgQhMPeEQ#t=32) that we wanted to make a demo for Solskogen 2013, actually getting started is really hard.
 As it turns out, people have lives, and finding time for demo making is not always the easiest task.
+
 Work on TUNL-MNTN-WTER started a small week before Solskogen, with most of the work put during the first evening/night of the party.
 Of course, doing to much demo coding at a party means missing out on a good deal of partying, so lesson learned.
 Funnily, this is the exact same lesson that we learned at last year's Solskogen, but next year will be different!
@@ -24,26 +27,36 @@ Funnily, this is the exact same lesson that we learned at last year's Solskogen,
 ## Choosing a language/framework
 
 Our first demo was a JavaScript-powered web demo using WebGL with [THREE.js](http://threejs.org), and we wanted to do something different this time around.
-We spent ages mucking about with different combinations of c, c++, opengl, lightweight framework x, heavyweight framework y, but eventually gave up.
+We spent ages mucking about with different combinations of C, C++, OpenGL, lightweight framework X, heavyweight framework Y, but eventually had to give up.
 A hard requirement for us is decent cross-platform compatibility, because we all develop in wildly different environments, ranging from Windows 8 through OS X Mavericks to Arch Linux, and most things inbetween.
-Even getting simple C++/opengl snippets to run reliably on the different platforms was prohibitively hard (how do you guys do it, people who have managed it?!), so in the end, with the compo deadline looming nearer and nearer, we settled on making a JavaScript-powered web demo using WebGL with THREE.js.
+
+Even getting simple C++/OpenGL snippets to run reliably on the different platforms was prohibitively hard (how do you guys do it, people who have managed it?!), so in the end, with the compo deadline looming nearer and nearer, we settled on making a JavaScript-powered web demo using WebGL with THREE.js.
 
 ## The music
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/130728236&amp;color=1abc9c&amp;auto_play=false&amp;show_artwork=false">
+</iframe>
+
 The music was composed before a single line of code for the demo was written.
 Because of this, the composers had an enormous amount of thematic control for the demo.
-Inspired by Pat Metheny's "Last train home", the soundtrack for the demo was chugged out over the course of two days, in which the composers spent most of their time making appearances at Martini parties.
+Inspired by Pat Metheny's "Last train home", the soundtrack for the demo was chugged out over the course of two days, in which the composers spent most of their time doing non-related things such as making appearances at Martini parties.
 
 ## Some facts about the train, with cool graphs
 
 Seeing as none of us are graphic artists or even know how to work our way around a 3D modelling program, we were kind of limited in terms of train design.
 We quickly resorted to purchasing a train model [online](link-to-the-train-model).
+The train model something something.
+
 
 ## Shaders: turns out that they rock and are cool
 
-### The ascii shader
-
-anecdote about honeycomb's crazy hack trick
+A new technical achievement for us as a group was to take the step into creating our own post-processing shaders (yay us!).
+One of the shaders we wrote for this demo was the ASCII shader.
+The ASCII shader is a post-processing shader that renders a 3D scene as if it were ASCII art.
+The way it works is quite simple.
+It first renders the scene as usual.
+Then, it samples the frame at evenly spaced intervals, and replaces areas of the frame with a (actually non-ASCII!) glyph representing the intensity and color of the area it replaces.
+The end result is an image that looks like it was coded in a terminal window.
 
 ## Hard-coding everything vs making a tool
 

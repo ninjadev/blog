@@ -21,7 +21,7 @@ Time management is a fickle mistress, and although we knew [for the longest time
 As it turns out, people have lives, and finding time for demo making is not always the easiest task.
 
 Work on TUNL-MNTN-WTER started a small week before Solskogen, with most of the work put during the first evening/night of the party.
-Of course, doing to much demo coding at a party means missing out on a good deal of partying, so lesson learned.
+Of course, doing too much demo coding at a party means missing out on a good deal of partying, so lesson learned.
 Funnily, this is the exact same lesson that we learned at last year's Solskogen, but next year will be different!
 
 ## Choosing a language/framework
